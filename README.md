@@ -1,9 +1,10 @@
-# Node-canil
-Pré-requisitos globais:
+Projeto feito com Node + Typescript
+
+## Pré-requisitos globais:
 npm i -g nodemon typescript ts-node
 
-Instalação
+## Instalação
 npm install
 
-Para rodar o projeto
+## Para rodar o projeto
 npm run start-dev
