@@ -1,4 +1,4 @@
-Projeto feito com Node + Typescript
+Projeto realizado com Node + Typescript
 
 ## Pré-requisitos globais:
 npm i -g nodemon typescript ts-node
